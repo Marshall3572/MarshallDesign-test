@@ -1,5 +1,6 @@
 # vue-3-demo-1
-
+### 试用组件
+![img.png](img.png)
 ## Project setup
 ```
 yarn install
